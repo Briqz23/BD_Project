@@ -52,9 +52,9 @@ public class MenuPrincipalTela extends javax.swing.JFrame {
         jSeparator1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 255, 255), 5));
         jSeparator1.setMinimumSize(new java.awt.Dimension(944, 10));
         jPanel1.add(jSeparator1);
-        jSeparator1.setBounds(5, 105, 940, 10);
+        jSeparator1.setBounds(5, 105, 940, 2);
 
-        jButton1.setIcon(new javax.swing.ImageIcon("/home/brikz/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/Imagens/closeIcon.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\danie\\OneDrive - Colégio Santa Cruz\\Documentos\\NetBeansProjects\\ProjetoIntegradorS1\\src\\main\\java\\com\\mycompany\\mavenproject1\\Imagens\\closeIcon.png")); // NOI18N
         jButton1.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
         jButton1.setMaximumSize(new java.awt.Dimension(54, 54));
         jButton1.setMinimumSize(new java.awt.Dimension(54, 54));
@@ -161,7 +161,6 @@ public class MenuPrincipalTela extends javax.swing.JFrame {
         jPanel1.add(sairBotao);
         sairBotao.setBounds(49, 542, 840, 70);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("/home/brikz/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/Imagens/TopoMenu.png")); // NOI18N
         jLabel2.setAlignmentY(0.0F);
         jPanel1.add(jLabel2);
         jLabel2.setBounds(4, 5, 950, 100);
